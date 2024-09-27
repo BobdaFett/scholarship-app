@@ -12,6 +12,7 @@ module.exports = {
         "./src/customElements/Tabs.ts",
         "./src/customElements/MultipleEntry.ts",
         "./src/customElements/modalWindow.ts",
+        "./src/customElements/Checkbox.ts"
       ],
     },
     scripts: {
