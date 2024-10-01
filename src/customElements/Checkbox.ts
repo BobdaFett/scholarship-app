@@ -44,9 +44,9 @@ export class Checkbox extends LitElement {
     background-color: #ccc;
     }
 
-    /* When the checkbox is checked, add a blue background */
+    /* When the checkbox is checked, add a green background */
     .container input:checked ~ .checkmark {
-    background-color: #0b6623;
+    background-color: var(--theme-primary-color);
     /*change background-color to var(--theme-primary-color)*/
     }
 
